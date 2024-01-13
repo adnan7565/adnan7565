@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adnan7565
-- 👀 I’m interested in designing
-- 🌱 I’m currently learning  html css and javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me
+-  Hi, I’m adnan ahmad and currently learning front end deveopement .
+-  I’m interested in designing and creating websites.
+-  I’m currently learning  html css and javascript 
+- 💞️ I’m looking to collaborate with you all.
+- 📫my instagram - adnan.ahmad_
 
 <!---
 adnan7565/adnan7565 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
