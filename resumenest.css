@@ -1,0 +1,234 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#navbar{
+    height: 80px;
+    width: 100%;
+    background-color: #f0f0f0e9;
+    color: black;
+    display: flex;
+    position:fixed;
+    top: 0;
+ align-items: center;
+justify-content: right;
+opacity: 90%;
+}
+#logo{
+    color: rgb(0, 0, 0);
+    font-family:'Gill Sans', 'Gill Sans MT',Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+
+  position: absolute;
+  text-shadow:  3px 3px 3px rgb(255, 255, 255);
+left: 20px;
+}
+body{
+    margin: 0;
+}
+#sectionb{
+    height:250px;
+    width:100%;
+    margin-top: 100px;
+ text-align: center;
+     font-size: larger;
+     font-size: 25px;
+     vertical-align: text-top;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+ul li:hover{
+    color: rgb(0, 0, 0);
+}
+#sectionc{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+button{
+    height: 50px;
+    width: 140px;
+    border-radius: 40px;
+    font-weight: 600;
+    box-shadow: 5px  5px  4px rgb(103, 103, 102);
+}
+#para{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btnorder:hover{
+    background-color: black;
+    color: white;
+}
+
+.box{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
+    color: rgb(4, 4, 87);
+}
+ul li{
+    display: inline-block;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    color: rgb(108, 108, 108);
+    margin: 10px;
+    
+}
+.para{
+    font-size: 18px;
+    text-align: center;
+    text-align-last: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 40px;
+}
+#boxc{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100px;
+width: 100%;
+align-items: center;
+}
+#content{
+    background-color:#ffffff;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.boxesa{
+    height: 350px; ;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+     box-shadow: 10px 10px 10px grey;
+     background-image:url(Mid-Level-Product-Manager-Resume-Sample.pdf.jpeg);
+     background-size:cover;
+
+}
+.boxesb{
+    height: 350px; ;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+      background-image:url(Teen-Resume-Templates-and-Examples.pdf.jpeg);
+     background-size:cover;
+}
+.boxesc{
+    height: 350px; ;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+        background-image:url(Best-Resume-Template-Free-Download-MS-Word-.jpg.webp);
+     background-size:cover;
+}
+footer{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(135, 135, 135);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif,
+      Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+ background-color:   rgb(255, 255, 255);
+ font-size: 30px;
+ border: 1px solid black;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+#portfolio{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#buttonb{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    margin-right: 10px;
+    background-color: rgb(148, 241, 194);
+}
+#buttonb:hover{
+    background-color: white;
+    color: black;
+}
+.box1{
+    height: 230px;
+    width: 300px;
+    background-color: rgb(227, 224, 224);
+    background-image:url(portfolio.webp);
+  border-radius: 20px;
+  background-size:cover;
+  margin: 20px;
+  background-repeat: no-repeat;
+}
+.box2{
+    height: 230px;
+    width: 300px;
+    background-color: rgb(231, 231, 231);
+    background-image:url(PersonalPortfolio.jpg) ;
+ background-size: cover;
+  border-radius: 20px;
+  margin: 20px;
+}
+.box3{
+    height: 230px;
+    width: 300px;
+    background-color: rgb(231, 231, 231);
+    border-radius: 20px;
+    background-image:url(thumbnail-1024x576.png) ;
+ background-size: contain;
+ background-position: center;
+   background-repeat: no-repeat;
+   justify-content: center;
+  margin: 20px;
+}
+#downbox{
+    height: 300px;
+    width: 100%;
+    background-color: #f7f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.downboxa{
+    width:980px;
+    height: 220px;
+    border-radius: 30px;
+    margin-top: 0px;
+    text-align: center;
+     font-size: 30px;
+     justify-content: space-between;
+       font-family: 'Times New Roman', Times, serif;
+}
+h3{
+   position: top;
+   font-weight: 400;
+   margin-top: 38PX;
+   font-size: 30px;
+}
+#lists{
+    
+}
+
